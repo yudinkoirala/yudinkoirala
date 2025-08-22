@@ -1,71 +1,92 @@
-# 👨‍🌾 Yudin Koirala  
+<!-- Banner -->
+<h1 align="center">👨‍🌾 Yudin Koirala</h1>
+<h3 align="center">Agri-Tech Dreamer | Student | Future Entrepreneur</h3>
 
-🌱 *Agri-Tech Dreamer | Student | Future Entrepreneur*  
-
-Hey there! I’m **Yudin**, an agriculture + tech enthusiast from Nepal.  
-Currently wrapping up my **+2 in Agriculture (Radhika Secondary School, Morang)** while experimenting with **farm-tech projects, AI tools, and agri-business models**. I’m on a mission to build **sustainable, profitable, and tech-driven farming systems** for smallholders and beyond.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Agriculture-Tech-green?style=flat-square&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Student-Learner-blue?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nepal-🌏-red?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=yudin-koirala&label=Profile+Views&color=brightgreen" />
+</p>
 
 ---
 
-## 🚀 What I Do  
+## 🌱 About Me  
 
-- 🔬 **Agriculture & Research**  
-  - Experiments on **copper sulfate (blue vitriol) in farming**  
-  - Case studies on **hydroponics, organic farming, and profitable smallholder practices**  
-  - Exploring **urban farming & community food projects**  
+I’m **Yudin Koirala**, a passionate student from Nepal blending **agriculture and technology** to create sustainable, profitable, and future-ready farming systems.  
 
-- 📱 **Tech & Projects**  
-  - Building a **Farm Management Mobile App** (React Native) → crop planning, expense tracking, harvest scheduling  
-  - Python project for **crop yield prediction** using weather + soil data  
-  - Dreaming of **futuristic agri-startup tools** → merging AI, data, and farm practices  
+🔬 Currently finishing my **+2 in Agriculture** at *Radhika Secondary School, Morang*.  
+💡 Exploring **farm management apps, AI for yield prediction, and hydroponic systems**.  
+🌍 Active in **SDG & climate groups**, planning to attend **LCOY Nepal 2025**.  
+🚀 Mission: *Make farming cool, smart, and profitable for Gen Z & beyond.*  
 
-- 🌍 **Impact & Community**  
-  - Active in **SDG youth groups** & climate-focused initiatives  
-  - Planning to attend **LCOY Nepal 2025** and contribute to the **Youth Declaration**  
-  - Advocating for **profitable, sustainable farming** in Nepal and abroad  
+---
+
+## 🚀 Current Projects  
+
+- 📱 **Farm Management App (React Native)** → Crop planning, expense tracking, harvest scheduling  
+- 🧠 **AI-Powered Crop Yield Prediction** (Python) → Using weather + soil datasets  
+- 🥬 **Hydroponics Research** → Scalable models for Nepal (urban + rural)  
+- 📊 **Profitable Farming Case Studies** → Smallholder economics, organic, hybrid models  
 
 ---
 
 ## 📌 Featured Case Studies  
 
-- 🥬 **Hydroponic Farming in Nepal** – scalability, investment costs, and adaptation strategies  
-- 🌾 **Profitable Farming Models** – organic + hybrid approaches for smallholders  
-- 🌍 **ISERIAL & Hydroponics** – applications in urban and rural Nepal  
+- 🥬 Hydroponic Farming in Nepal – Cost, scalability, and adaptation  
+- 🌾 Profitable Farming Models – For smallholders & medium farms  
+- 🌍 ISERIAL Hydroponics – Applications in community food systems  
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech & Skills  
 
-- **Agri-Science**: Crop management, soil analysis, sustainable farming  
-- **Tech**: Python, React Native, Data analysis, AI in Agriculture  
-- **Business/Strategy**: Farm economics, startup planning, project mapping  
+<p align="center">
+  <!-- Tech stack icons -->
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,git,github,vscode" />
+</p>
+
+- **Agri-Science** 🌱 → Crop management, soil science, sustainable farming  
+- **Tech** 💻 → Python, React Native, Data Analysis, AI in Agriculture  
+- **Business/Strategy** 📊 → Startup planning, farm economics, project mapping  
 
 ---
 
 ## 🎯 Career Goals  
 
-- 🎓 Secure scholarships/training for **B.Sc. Agriculture abroad (2025+)**  
-- 🌱 Launch my **own agri-tech startup** in Nepal → scaling to global level  
-- 🤝 Connect **farmers with technology** to boost productivity & income  
-- 💡 Build tools that make farming **cool, smart, and profitable** for Gen Z & future generations  
+- 🎓 Secure **B.Sc. Agriculture scholarships abroad (2025+)**  
+- 🌱 Launch an **agri-tech startup in Nepal** → scale globally  
+- 🤝 Build bridges between **farmers & technology**  
+- 💡 Design **smart farming tools** for the next generation  
 
 ---
 
-## 🧠 Fun Facts  
+## 🎨 Fun Facts  
 
-- 📊 I actually enjoy making **case studies + industry visit cheat sheets**  
-- 💻 I once asked ChatGPT how to make **$1M in 5 years** (the plan’s in progress 😉)  
-- 🌍 Dark theme everything → even my presentations!  
-- 🔥 I’ve been roasted by ChatGPT… and I roasted back with a rap.  
-
----
-
-## 📫 Connect With Me  
-
-- 📍 **Urlabari-06, Morang, Nepal**  
-- 📧 [yudinkoiralaa@gmail.com](mailto:yudinkoiralaa@gmail.com)  
-- 📱 +977 9700969396  
+- 📊 Obsessed with making **case studies & cheat sheets**  
+- 💻 Asked ChatGPT how to **make $1M in 5 years** (work in progress 😎)  
+- 🖤 Everything looks better in **dark theme**  
+- 🎤 Survived a **roast rap battle with ChatGPT**  
 
 ---
 
-> *“I don’t just want to study agriculture — I want to re-engineer it.”* 🌱⚡
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:yudinkoiralaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/yudin-koiralaa-63730727b/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/YudinKoiralaa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yudinkoirala&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudinkoirala&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
+---
+
+> *“I don’t just want to study agriculture — I want to re-engineer it.”* ⚡🌱
